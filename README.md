@@ -23,7 +23,7 @@ This project facillitates one important feature:
 - pyserial
 - PyQt5
 
-## Relavant Links
+## Relevant Links
 Below is a list of relevant resources for this project:
 - Please visit https://tomglobal.atlassian.net/wiki/spaces/PROJ/pages/22708337/Sharlene+Speaks for more information on the project and how to build the music player this GUI was created for
 
